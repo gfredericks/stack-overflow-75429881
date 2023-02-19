@@ -1,0 +1,8 @@
++ clojure --version
+Clojure CLI version 1.11.1.1119
++ clojure -Srepro -M script.clj
+{:result true,
+ :pass? true,
+ :num-tests 100,
+ :time-elapsed-ms 253,
+ :seed 1676231835751}
